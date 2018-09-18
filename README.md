@@ -1,4 +1,4 @@
-# Docker compose for Elasticsearch and Kibana
+# Docker compose template for Elasticsearch and Kibana
 
 ## Requirements
 * Docker
