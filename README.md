@@ -1,16 +1,8 @@
-# Docker compose template for Elasticsearch and Kibana
-
-## Requirements
-* Docker
-* Docker Compose
+# Docker compose template for Elasticsearch
 
 ## Run
-```
-cd elasticsearch-kibana
-docker-compose up -d
-```
-* Kibana: http://localhost:5601/app/kibana
-* Elasticsearch: http://localhost:9200
+* with [Kibana](./elasticsearch-kibana/README.md)
+* with [Redash](./elasticsearch-redash/README.md)
 
 ## Snippets
 ```
